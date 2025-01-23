@@ -29,7 +29,10 @@
 	            <a href="index.php"><span class="fa fa-home mr-3"></span> Início</a>
 	          </li>
 	          <li>
-	              <a href="cadastros.php"><span class="fa fa-user mr-3"></span> Cadastros</a>
+	              <a href="disciplinas_ver.php"><span class="fa fa-user mr-3"></span> Disciplinas</a>
+	          </li>
+	          <li>
+	              <a href="turmas_ver.php"><span class="fa fa-user mr-3"></span> Turmas</a>
 	          </li>
 	          <li>
               <a href="#"><span class="fa fa-briefcase mr-3"></span> Outros</a>
